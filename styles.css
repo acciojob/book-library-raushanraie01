@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+body{
+	margin:0;
+	padding:0;
+	background-color:#f8f8f8;
+}
+h1{
+	text-align:center;
+}
+#top{
+	border-bottom:10px solid white;
+}
+.outer{
+	border-bottom:10px solid white;
+}
+.images{
+	padding-top:10px;
+	text-align:center;
+}
+p{
+	color:gray;
+}
+button{
+	background-color:green;
+	width:100%;
+	height:40px;
+	border-radius:15px;
+	color:white;
+}
